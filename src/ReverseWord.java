@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+/*author: Rishabh*/
+
 public class ReverseWord {
     public static void main(String[] args){
         /*

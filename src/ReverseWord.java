@@ -2,8 +2,6 @@
 import java.util.Scanner;
 
 /*author: Rishabh*/
-/*another comment*/
-
 
 public class ReverseWord {
     public static void main(String[] args){

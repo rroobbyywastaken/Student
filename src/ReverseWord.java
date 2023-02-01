@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 /*author: Rishabh*/
+/* added comment for fetch+merge */
 
 public class ReverseWord {
     public static void main(String[] args){

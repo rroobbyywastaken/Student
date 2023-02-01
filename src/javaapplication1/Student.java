@@ -1,3 +1,5 @@
+package javaapplication1;
+
 public class Student {
     private String studentId;
     private String studentName;
